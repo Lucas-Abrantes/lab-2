@@ -3,7 +3,8 @@
 
 ### Autores: 
 
-#### Antonio Romailson Fernandes  Costa;
+#### Antônio Romailson Fernandes Costa;
+#### Antônio David Negreiros Augusto;
 #### Giselia Kaline Dias;
 #### Ivys Magno Morais da Rocha;
 #### Lucas Abrantes Sarmento; 
